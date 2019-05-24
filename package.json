@@ -1,0 +1,17 @@
+{
+  "name": "hit_on_the_face",
+  "version": "1.0.0",
+  "description": "smiley memory game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mia jorgensen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.14.1",
+    "path": "^0.12.7",
+    "nodemon": "^1.12.1"
+  }
+}
