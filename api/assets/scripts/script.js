@@ -9,7 +9,7 @@ function generateFaces() {
     for (let i = 0; i < numberOfFaces ; i++) {
         var smileyImage = document.createElement("img");
         /* smileyImage.src = "smile.png";*/
-        smileyImage.setAttribute("src","../smile.png");
+        smileyImage.setAttribute("src","../bo2.png");
 
         var topPosition = Math.floor(Math.random()*401);
         var leftPosition = Math.floor(Math.random()*401);
